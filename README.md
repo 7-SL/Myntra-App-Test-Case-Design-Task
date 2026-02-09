@@ -3,11 +3,11 @@ During my Software Testing training, I worked on a group assignment focused on d
 As part of my individual contribution, I designed and documented 14 test cases covering multiple testing levels:
 Functional Testing, Integration Testing, System Testing
 
-- Skills & Knowledge Gained
-Test case design and documentation
-Understanding application workflows and user scenarios
-Identifying test scenarios, expected results, and validations
-Team collaboration and task coordination
-Practical exposure to different software testing levels
+> Skills & Knowledge Gained
+-Test case design and documentation
+-Understanding application workflows and user scenarios
+-Identifying test scenarios, expected results, and validations
+-Team collaboration and task coordination
+-Practical exposure to different software testing levels
 
 This task helped me strengthen my understanding of software testing concepts and improved my analytical and defect-identification skills.
